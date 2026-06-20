@@ -235,7 +235,7 @@ Arya College of Engineering, Jaipur
 
 GitHub: https://github.com/Ronit049
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+LinkedIn: https://www.linkedin.com/in/ronit-raj7497
 
 Email: [ronitraj049@gmail.com](mailto:ronitraj049@gmail.com)
 
